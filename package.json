@@ -1,0 +1,11 @@
+{
+  "name": "eva-sinar-wedding-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@bot-whatsapp/bot": "^0.1.38"
+  }
+}
